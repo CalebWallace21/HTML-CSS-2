@@ -1,0 +1,20 @@
+body {   
+    background-color: #D8D8D8;    
+  }
+.top-part {
+    Height: 20VH;        
+    background: rgba(8, 7, 7, 0.514);    
+}
+
+.center-part{
+    background-color: #EFEFEF;
+    margin: 0 auto;
+    width: 75%;
+    height: 75VH;
+}
+.bottom-part {    
+    background: rgba(5, 4, 4, 0.616);    
+    margin: 0 auto;    
+    width: 75%;    
+    Height: 10vh;
+}

@@ -1,0 +1,69 @@
+.container-1 {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    display:inline-flex;
+    height: 20vh;
+    width: 99%;    
+    align-items: center;
+    margin: auto;
+}
+.container-2 {
+    border-style:dotted;
+    border-width: 5px;
+    margin-top: 50px;
+}
+
+.container-3 {
+    border-style:outset;
+    border-width: 2px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    line-height: 10%;
+}
+
+.purple-rectangle {
+    width: 40px;
+    height: 15vh;
+    background: rgba(97, 0, 253, 0.74);    
+    margin-left: 10px;
+    margin-top: 25px;    
+    
+}
+
+.green-rectangle {
+    width: 25%;
+    height: 18VH;
+    background: green;    
+    margin-left: 50px;
+    
+}
+
+.circle {
+    width: 18vh;
+    height: 18vh;
+    background: skyblue;
+    border-radius: 50%;
+    margin-left: 35px;
+}
+
+.tan-rectangle {
+    width: 90%;
+    height: 150px;
+    background: rgb(255, 230, 197);
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.75);
+}
+
+section > p {
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 15px;
+}
